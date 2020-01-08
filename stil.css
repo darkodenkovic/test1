@@ -1,0 +1,103 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-color: gainsboro;
+}
+h1 {
+    font-family: Arial;
+    color: blue;
+    padding-left: 30px;
+}
+h2, h3, h4 {
+    color: blue;
+}
+a{
+    font-family: Arial;
+    text-decoration-line: none;
+    padding-left: 10px;
+
+}
+.title{
+    margin-bottom: 10px;
+    background-color: white;
+    border-bottom-color: blue;
+    border-bottom-style: solid;
+    border-width: thin;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    //align-items: baseline;
+    background-color: gainsboro;
+}
+.left{
+    flex-basis: 60%;
+    background-color: white;
+}
+.main{
+    display: flex;
+}
+.leftbox{
+    flex: 1;
+}
+.rightbox{
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    flex: 3;
+}
+.box2{
+    flex: 1;
+}
+.box3{
+    flex: 3;
+}
+.right{
+    flex-basis: 30%;
+}
+/* sadrzani u .left*/
+
+.bottom{
+    display: flex;
+    justify-content: flex-start;
+    //justify-content: space-around;
+}
+/* sadrzani u .bottom*/
+.activity{
+    flex-basis: 40%;
+    background-color: white;
+    border-top-color: blue;
+    border-top-style: solid;
+}
+.widget{
+    margin-left: auto;
+    flex-basis: 40%;
+    background-color: white;
+    border-top-color: blue;
+    border-top-style: solid;
+}
+/* sadrzani u .right*/
+.edit_page{
+    margin: auto;
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    border-color: darkgrey;
+
+}
+.status{
+    background-color: white;
+    border-top-color: blue;
+    border-top-style: solid;
+}
+.twitter{
+    background-color: white;
+    border-top-color: blue;
+    border-top-style: solid;
+}
+
