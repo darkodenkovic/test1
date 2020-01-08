@@ -55,18 +55,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578502322882</updated>
-      <workItem from="1578502324307" duration="24446000" />
+      <workItem from="1578502324307" duration="24774000" />
     </task>
+    <task id="LOCAL-00001" summary="final init">
+      <created>1578526987728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578526987728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final init" />
+    <option name="LAST_COMMIT_MESSAGE" value="final init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="89" key="#Inspections" timestamp="1578509965072">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1578509965072" />
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1578527004629">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578527004629" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1578527060337">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578527060337" />
+    <state x="572" y="165" key="VcsDiffUtil.ChangesDialog" timestamp="1578527236210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="572" y="165" key="VcsDiffUtil.ChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578527236210" />
     <state x="456" y="195" width="672" height="677" key="run.anything.popup" timestamp="1578523026575">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
