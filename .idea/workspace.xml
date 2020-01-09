@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5ec51aa-4902-4799-b390-aac2284af6bb" name="Default Changelist" comment="final init">
-      <change afterPath="$PROJECT_DIR$/jscript.js" afterDir="false" />
+    <list default="true" id="c5ec51aa-4902-4799-b390-aac2284af6bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stil.css" beforeDir="false" afterPath="$PROJECT_DIR$/stil.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/jscript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <workItem from="1578502324307" duration="25090000" />
       <workItem from="1578527752649" duration="541000" />
       <workItem from="1578553724088" duration="815000" />
-      <workItem from="1578554578652" duration="9821000" />
+      <workItem from="1578554578652" duration="10708000" />
     </task>
     <task id="LOCAL-00001" summary="final init">
       <created>1578526987728</created>
@@ -92,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578527994896</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final init">
+      <created>1578564935715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578564935715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,18 +116,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1578509965072" />
-    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1578554375665">
+    <state x="392" y="89" key="#Notifications" timestamp="1578565022453">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578554375665" />
+    <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1578565022453" />
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1578564934606">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578564934606" />
     <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1578528048406">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578528048406" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1578554082830">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1578564965981">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578554082830" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578564965981" />
     <state x="572" y="165" key="VcsDiffUtil.ChangesDialog" timestamp="1578527236210">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

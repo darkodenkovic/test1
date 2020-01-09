@@ -25,4 +25,6 @@ function prosiriFunc1() {
     }
 }
 
+let p = [{ name: "andrej", surname: "vojvodic"},{ name: "andrej1", surname: "vojvodic"}];
+
 
