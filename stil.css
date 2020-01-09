@@ -141,6 +141,7 @@ a{
     border-style: solid;
     border-width: thin;
     border-color: #d3d3d3;
+    //max-height: 100%;
 }
 .main-bottom{
    // margin-top: -80px;
